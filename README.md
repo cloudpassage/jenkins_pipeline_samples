@@ -33,3 +33,8 @@ While these scripts are not alone a production-ready drop-in solution, they do
 show a clean process which can be worked into an existing CI pipeline. If you
 would like assistance in instrumenting similar processes within your pipeline,
 reach out to your CloudPassage salesperson or customer success contact.
+
+<!---
+#CPTAGS:community-supported integration deployment
+#TBICON:images/python_icon.png
+-->
